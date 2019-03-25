@@ -1,0 +1,15 @@
+{
+  "name": "mongodb-classes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^6.0.2",
+    "mongoose": "^5.4.19"
+  }
+}
